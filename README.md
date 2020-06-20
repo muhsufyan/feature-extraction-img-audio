@@ -1,0 +1,27 @@
+library yang harus terinstall
+beautifulsoup4        4.8.2
+certifi               2019.11.28
+chardet               3.0.4
+Click                 7.0
+cycler                0.10.0
+gTTS                  2.1.0
+gTTS-token            1.1.3
+h5py                  2.10.0
+idna                  2.8
+kiwisolver            1.1.0
+matplotlib            3.1.2
+numpy                 1.18.0
+opencv-contrib-python 3.4.2.16
+opencv-python         4.1.2.30
+pip                   19.0.3
+pyparsing             2.4.6
+pypiwin32             223
+python-dateutil       2.8.1
+pyttsx                1.1
+pyttsx3               2.71
+pywin32               227
+requests              2.22.0
+setuptools            40.8.0
+six                   1.13.0
+soupsieve             1.9.5
+urllib3               1.25.7
